@@ -110,6 +110,7 @@ class SearchController: UICollectionViewController, UICollectionViewDelegateFlow
                 self.collectionView?.reloadData()
             }
             
+            
         }.resume()
     }
 }

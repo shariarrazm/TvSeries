@@ -20,6 +20,7 @@ class DetailController: UIViewController {
         return iv
     }()
     
+    
     let containerView: UIView = {
         let view = UIView()
         view.backgroundColor = .white

@@ -12,3 +12,4 @@ struct Images: Decodable {
     let medium: String?
     let original: String?
 }
+

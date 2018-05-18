@@ -22,22 +22,3 @@ struct Rating: Decodable {
     let average: Double?
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

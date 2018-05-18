@@ -21,6 +21,8 @@ class SearchCell: UICollectionViewCell {
         }
     }
     
+    
+    
     let containerView: UIView = {
         let view = UIView()
         return view
